@@ -32,7 +32,7 @@ And this text should be the same, but on the second line...
 Find and list all .doc file types from the files folder in the output of your `script.sh`.
 
 ### Change permissions
-Find and change all 'chmodme.*' files and change the permissions to 777.  List the files in the output of your `script.sh`.
+Find all the 'chmodme.*' files and alter the permissions to 777.  List the files in the output of your `script.sh`.
 
 ### String replacement
 In the file: `files/goodbad.txt`, find all instances of 'bad', 'Bad' and 'BAD', replace with 'good', 'good' and 'GOOD', then show the text in the output of your `script.sh`.
